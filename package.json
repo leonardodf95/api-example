@@ -16,8 +16,5 @@
   },
   "devDependencies": {
     "jest": "^29.7.0"
-  },
-  "dependencies": {
-    "@cucumber/cucumber": "^10.0.1"
   }
 }
